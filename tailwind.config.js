@@ -5,7 +5,13 @@ export default {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        bebas: ['Bebas Neue', 'sans'],
+        roboto: ['Roboto', 'sans'],
+        montserrat: ['Montserrat', 'sans'],
+      }
+    },
   },
   plugins: [],
 }

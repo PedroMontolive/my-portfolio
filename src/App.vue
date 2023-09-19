@@ -1,7 +1,7 @@
-<script setup lang="ts">
-import HelloWorld from '@/Components/HelloWorld.vue';
+<script setup>
+import Slide from '@/Components/Slide/Slide.vue';
 </script>
 
 <template>
-  <HelloWorld msg="Hello, World!" />
+  <Slide />
 </template>
