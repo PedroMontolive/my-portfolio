@@ -16,6 +16,10 @@
         "vue": "^3.4.19"
     },
     "dependencies": {
-        "@inertiajs/vue3": "^1.0.14"
+        "@heroicons/vue": "^2.1.1",
+        "@inertiajs/vue3": "^1.0.14",
+        "@kyvg/vue3-notification": "^3.2.0",
+        "@phosphor-icons/vue": "^2.1.6",
+        "typeit": "^8.8.3"
     }
 }
