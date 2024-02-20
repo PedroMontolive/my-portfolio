@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Site;
 
 use App\Http\Controllers\Controller;
+use Inertia\Inertia;
 
 class HomeController extends Controller
 {
@@ -11,6 +12,6 @@ class HomeController extends Controller
      */
     public function index()
     {
-        dd('Hello World');
+        return Inertia::render('Site/Index');
     }
 }
