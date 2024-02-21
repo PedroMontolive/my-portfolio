@@ -97,6 +97,16 @@ export default {
                 dark: '#6900bc',
                 100: '#F2FDFC',
             },
+            transparent: 'transparent',
+            current: 'currentColor',
+        },
+        container: {
+            center: true,
+            padding: {
+                DEFAULT: '1.5rem',
+                md: '1rem',
+                sm: '.8rem',
+            },
         },
         extend: {
             fontFamily: {
