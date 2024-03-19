@@ -64,7 +64,7 @@ export default {
 <template>
     <header id="up" class="relative h-screen bg-fixed bg-center bg-no-repeat bg-cover">
         <div class="flex items-center justify-center h-screen bg-black bg-opacity-50">
-            <div class="mx-2 text-center text-secondary-default">
+            <div translate="no" class="mx-2 text-center text-secondary-default">
                 <h2 class="font-serif text-2xl text-tertiary-default xs:text-3xl md:text-4xl">
                     Hello, World.
                 </h2>
