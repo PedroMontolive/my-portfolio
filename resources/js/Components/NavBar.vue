@@ -17,7 +17,7 @@ export default {
 
 <template>
     <section>
-        <nav id="nav" class="fixed inset-x-0 top-0 z-30 bg-transparent backdrop-blur-sm navbar font-fira">
+        <nav id="nav" class="fixed inset-x-0 top-0 z-30 bg-transparent navbar font-fira">
             <div class="flex-1 tracking-widest">
                 <a class="text-xl rounded-none btn btn-ghost">PEMTO</a>
             </div>
