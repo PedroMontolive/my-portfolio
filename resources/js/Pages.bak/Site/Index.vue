@@ -41,7 +41,7 @@ export default {
             class="fixed inset-x-0 top-0 z-10 flex flex-row justify-between font-serif text-white bg-transparent menu-item backdrop-blur-sm">
             <div class="p-4">
                 <div class="text-2xl tracking-widest">
-                    <a href="#"
+                    <a href="#nav"
                         class="p-2 transition duration-500 text-secondary-default hover:text-secondary-opaque">PEMTO</a>
                 </div>
             </div>
